@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TG Motors favicon">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#db4741"/>
+      <stop offset="100%" stop-color="#377de2"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0b0f14"/>
+  <g opacity="0.95">
+    <rect x="10" y="9" width="6" height="6" fill="#ffffff"/>
+    <rect x="16" y="9" width="6" height="6" fill="#171c23"/>
+    <rect x="22" y="9" width="6" height="6" fill="#ffffff"/>
+    <rect x="10" y="15" width="6" height="6" fill="#171c23"/>
+    <rect x="16" y="15" width="6" height="6" fill="#ffffff"/>
+    <rect x="22" y="15" width="6" height="6" fill="#171c23"/>
+  </g>
+  <path d="M14 27h24l-2.7 6.2H27v16h-7.1v-16h-8.6z" fill="#db4741"/>
+  <path d="M53.5 33.4h-8.2c-1.5 0-2.6 1-2.6 2.4v6.3c0 1.3 1.1 2.3 2.6 2.3h5.9v-3.4h-5v-4.1h7.3v8.4c0 2.4-1.8 3.9-4.7 3.9H44c-3.3 0-5.2-1.7-5.2-4.5v-10c0-2.9 1.9-4.7 5.2-4.7h9.5z" fill="#377de2"/>
+  <path d="M39 27.4l13 0.1-2.5 5.9H36.6z" fill="url(#accent)" opacity="0.9"/>
+</svg>
